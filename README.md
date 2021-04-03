@@ -30,3 +30,4 @@ while n<100:
             s=s+n
 print(s)
 ```
+[这是我的博客链接](https://github.com/WE5T3/blog-test/blob/master/README.md)
